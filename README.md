@@ -1,5 +1,5 @@
 # Project1
 
 ### Team Members
-#### Tiffany
+#### Tiffany, Brian Hopkins, Hunter Fitch, Isaac 
 
