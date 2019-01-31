@@ -1,5 +1,4 @@
 # Project1
 
 ### Team Members
-#### Tucker
-
+#### Hunter Fitch
