@@ -1,5 +1,5 @@
 # Project1
 
 ### Team Members
-#### Hunter Fitch, Isaac 
+#### Brian Hopkins, Hunter Fitch, Isaac 
 
