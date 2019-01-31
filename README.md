@@ -1,6 +1,5 @@
 # Project1
 
 ### Team Members
-#### Tucker
-##### Isaac 
+#### Hunter Fitch, Isaac 
 
