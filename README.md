@@ -1,6 +1,6 @@
 ### PROJECT1: habt
 
-### PROJECT TITLE: Taco Finder
+### PROJECT TITLE: Streaming Movie Finder
 
 ### TEAM MEMBERS: 
 
@@ -9,15 +9,15 @@
 ### REQUIREMENTS:
 
     - Must use at least two APIs:
-        * Yelp Fusion
-        * Location finder app (Google Maps, Leaflet, etc.)
+        * OMDB
+        * Utelly
         * Bulma
 
     - Must use AJAX to pull data (obviously)
 
     - Must use at least one new library or technology not introduced in class:
 
-        * Leaflet
+        * Utelly
         * Bulma
 
     - Must have a polished frontend/UI (obviously)
@@ -38,13 +38,11 @@
 
 # FUNCTIONALITY:
 
-    - Taco Finder app that pulls from Yelp or Food Truck app
+    - Streaming Movie Finder app that pulls from the OMDB API
 
-    - Shows distance, business name, hours of operation, star-rating
+    - Shows movie name, poster, rating, plot, where to find it streaming, other suggestions, etc.
 
-    - Limited input field (only searches for tacos: "That's not a taco.")
-
-    - Also offers possible delivery service (such as Door Dash)
+    - Limited input field (only searches for movies: "That's not a movie.")
 
 ### SKETCH OF FINAL PRODUCT:
 
@@ -52,17 +50,17 @@
 
 ### APIS TO BE USED:
 
-    - Yelp Fusion
-    - Location finder app (Leaflet)
+    - OMDB
+    - Utelly
     - Bulma
 
 ### TASK DELEGATION:
 
-    - Frontend & Leaflet location API:
+    - Frontend & OMBD API:
 
         * Hunter & Brian
 
-    - Backend, Yelp API, & how HTML displays on the DOM: 
+    - Backend & YouTube (trailer) API & how HTML displays on the DOM: 
 
         * Tiffany & Isaac
 
