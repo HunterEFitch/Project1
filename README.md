@@ -40,7 +40,7 @@
 
     - Streaming Movie Finder app that pulls from the OMDB API
 
-    - Shows movie name, poster, rating, plot, where to find it streaming, other suggestions, etc.
+    - Shows movie name, poster, rating, plot, where to find it streaming, other movie suggestions, etc.
 
     - Limited input field (only searches for movies: "That's not a movie.")
 
