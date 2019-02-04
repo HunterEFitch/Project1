@@ -1,29 +1,3 @@
-// // GET https://api.yelp.com/v3/autocomplete?text=del&latitude=37.786882&longitude=-122.399972
-
-// // var term = "spongebob";
-// // var queryURL = "https://utelly-tv-shows-and-movies-availability-v1.p.mashape.com/lookup?country=us&term=" + term;
-
-// var queryURL = 'https://utelly-tv-shows-and-movies-availability-v1.p.mashape.com/lookup?country=uk&term=bojack';
-
-// $.ajax({
-//     "url": queryURL,
-//     "method": 'GET',
-//     "contentType": 'application/json',
-//     "X-Mashape-Key": 'lAv7SFkpa8mshgIK5h3R6EvOazRJp1q4Y8IjsnAFtsMNM3RCsF',
-//     "Accept": 'application/json',
-
-// }).then(function (response) {
-//     console.log("Console working...");
-//     console.log(response);
-// });
-
-// // 'https://utelly-tv-shows-and-movies-availability-v1.p.mashape.com/lookup?country=uk&term=bojack' \
-// //   -H 'X-Mashape-Key: lAv7SFkpa8mshgIK5h3R6EvOazRJp1q4Y8IjsnAFtsMNM3RCsF' \
-// //   -H 'Accept: application/json'
-
-// var movie = $(this).attr("data-name");
-// =======================================================
-
 var movies = [""];
 
 // Creating an AJAX call for the specific movie button being clicked
