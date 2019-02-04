@@ -57,7 +57,7 @@
 
 // Create 3 columns:
 
-// Column 1: Create a "Service" column (Hulu, Netflix, Prime, Vudu)
+// Column 1: Create a "Service" column (Hulu, Netflix, Prime, Vudu).
 // Column 2: Create a "Where To View Streaming" column to display movie title.
 // Column 3: Create a "Price" column to display "(free/$)."
 
